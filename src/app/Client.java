@@ -1,3 +1,5 @@
+package app;
+
 public class Client {
     public void run() {
         TransportFactory carFactory = new CarFactory();
